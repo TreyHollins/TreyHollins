@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**TreyHollins/TreyHollins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Homegrown at Innovation Harvesters
 - 🌱 I’m currently learning how to utilize AI more effectively
 - 🤔 I’m looking for help with: Backend Engineering
@@ -22,4 +17,3 @@ Here are some ideas to get you started:
 ![](https://github-profile-trophy.vercel.app/?username=TreyHollins&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
